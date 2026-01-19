@@ -62,3 +62,12 @@ Key Insights
 Small Business segment shows the highest churn share (40%)
 Corporate segment contributes the highest revenue loss, despite lower churn count
 Churn shows an upward trend in later months, signaling retention issues over time
+
+Tools & Skills Used
+
+Microsoft Excel
+Pivot Tables & Pivot Charts
+KPI Cards
+Filters
+Data Cleaning & Preparation
+Business Analysis & Visualization
