@@ -71,3 +71,23 @@ KPI Cards
 Filters
 Data Cleaning & Preparation
 Business Analysis & Visualization
+
+How to Use
+
+Download the Excel file
+Open in Microsoft Excel (desktop version recommended)
+Review KPIs and insights for decision-making
+
+Portfolio Note
+
+This project demonstrates:
+
+Practical Excel analytics skills
+Business-oriented KPI design
+Data storytelling through dashboards
+Real-world churn analysis methodology
+
+Author
+
+Usama Younas
+Aspiring Data Analyst | Excel • SQL • Data Visualization
